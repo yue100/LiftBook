@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7C92F077BAE702975C145B820B880640CB6B5E92",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8720C7219D450F7798683628C1944597E7658627" : 0,
+    "7C92F077BAE702975C145B820B880640CB6B5E92" : 0,
+    "73DC436665640271F896394AA73C867E3FE45246" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AE898591-4F91-4918-9649-CC120F4B6BA9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8720C7219D450F7798683628C1944597E7658627" : "..",
+    "7C92F077BAE702975C145B820B880640CB6B5E92" : "CPSC370_Project\/",
+    "73DC436665640271F896394AA73C867E3FE45246" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CPSC370_Project",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CPSC370_Project.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yue100\/LiftBook.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "73DC436665640271F896394AA73C867E3FE45246"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yue100\/LiftBook.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7C92F077BAE702975C145B820B880640CB6B5E92"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ChapmanCPSC370\/Wilks-Calc.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8720C7219D450F7798683628C1944597E7658627"
+    }
+  ]
+}

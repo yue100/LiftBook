@@ -12,10 +12,10 @@
 		EE99240A1BD8010B00D202CD /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE9924091BD8010B00D202CD /* SecondViewController.swift */; };
 		EE99240D1BD8010B00D202CD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE99240B1BD8010B00D202CD /* Main.storyboard */; };
 		EE99240F1BD8010B00D202CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE99240E1BD8010B00D202CD /* Assets.xcassets */; };
-		EE9924121BD8010B00D202CD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE9924101BD8010B00D202CD /* LaunchScreen.storyboard */; };
 		EE99241D1BD8010B00D202CD /* CPSC370_ProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE99241C1BD8010B00D202CD /* CPSC370_ProjectTests.swift */; };
 		EE9924281BD8010B00D202CD /* CPSC370_ProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE9924271BD8010B00D202CD /* CPSC370_ProjectUITests.swift */; };
 		EE9924381BD8015B00D202CD /* WorkoutManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE9924371BD8015B00D202CD /* WorkoutManager.swift */; settings = {ASSET_TAGS = (); }; };
+		EEBDD9DE1BE1BC00004796EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEBDD9DD1BE1BC00004796EB /* LaunchScreen.storyboard */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,7 +42,6 @@
 		EE9924091BD8010B00D202CD /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		EE99240C1BD8010B00D202CD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		EE99240E1BD8010B00D202CD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		EE9924111BD8010B00D202CD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EE9924131BD8010B00D202CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EE9924181BD8010B00D202CD /* CPSC370_ProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CPSC370_ProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE99241C1BD8010B00D202CD /* CPSC370_ProjectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CPSC370_ProjectTests.swift; sourceTree = "<group>"; };
@@ -51,6 +50,7 @@
 		EE9924271BD8010B00D202CD /* CPSC370_ProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CPSC370_ProjectUITests.swift; sourceTree = "<group>"; };
 		EE9924291BD8010B00D202CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EE9924371BD8015B00D202CD /* WorkoutManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WorkoutManager.swift; sourceTree = "<group>"; };
+		EEBDD9DD1BE1BC00004796EB /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,9 +105,9 @@
 				EE9924071BD8010B00D202CD /* FirstViewController.swift */,
 				EE9924091BD8010B00D202CD /* SecondViewController.swift */,
 				EE99240B1BD8010B00D202CD /* Main.storyboard */,
+				EEBDD9DD1BE1BC00004796EB /* LaunchScreen.storyboard */,
 				EE9924371BD8015B00D202CD /* WorkoutManager.swift */,
 				EE99240E1BD8010B00D202CD /* Assets.xcassets */,
-				EE9924101BD8010B00D202CD /* LaunchScreen.storyboard */,
 				EE9924131BD8010B00D202CD /* Info.plist */,
 			);
 			path = CPSC370_Project;
@@ -234,8 +234,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EE9924121BD8010B00D202CD /* LaunchScreen.storyboard in Resources */,
 				EE99240F1BD8010B00D202CD /* Assets.xcassets in Resources */,
+				EEBDD9DE1BE1BC00004796EB /* LaunchScreen.storyboard in Resources */,
 				EE99240D1BD8010B00D202CD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -306,14 +306,6 @@
 				EE99240C1BD8010B00D202CD /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		EE9924101BD8010B00D202CD /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				EE9924111BD8010B00D202CD /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -489,6 +481,7 @@
 				EE99242E1BD8010B00D202CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EE99242F1BD8010B00D202CD /* Build configuration list for PBXNativeTarget "CPSC370_ProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +490,7 @@
 				EE9924311BD8010B00D202CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EE9924321BD8010B00D202CD /* Build configuration list for PBXNativeTarget "CPSC370_ProjectUITests" */ = {
 			isa = XCConfigurationList;
@@ -505,6 +499,7 @@
 				EE9924341BD8010B00D202CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
