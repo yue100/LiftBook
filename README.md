@@ -27,6 +27,9 @@ Download (if you don't already have it) Xcode and clone the repository! Complete
 
 **Anybody** who is interested in this project! Also anyone who weight trains or is interested in weightlifting
 
+###Questions/Comments?
+Please email liftbook10@gmail.com
+
 ##Additional Resources
 [Wilks Coefficient Information](https://en.wikipedia.org/wiki/Wilks_Coefficient)
 
