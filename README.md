@@ -21,8 +21,15 @@ The goal of LiftBook is to create a simple-to-use app which allows users to inpu
 
 ##How To Contribute:
 
-Download (if you don't already have it) Xcode and clone the repository!
+Download (if you don't already have it) Xcode and clone the repository! Complete and submit CLA
 
 ##Who Can Contribute:
 
 **Anybody** who is interested in this project! Also anyone who weight trains or is interested in weightlifting
+
+##Additional Resources
+[Wilks Coefficient Information](https://en.wikipedia.org/wiki/Wilks_Coefficient)
+
+[MyFitnessPal - Similar App](https://www.myfitnesspal.com/)
+
+[Swift Documentation](https://developer.apple.com/swift/resources/)
