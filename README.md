@@ -1,11 +1,4 @@
 
-![Dog image]
-(http://api.ning.com/files/VrVsBTwjNqD9-*m5RW2Tiw5FgaybsvaMWjgqgz5Awj2vW4nc9SwXzS4xQEfC-7sp3*XgIGfzfQgCEBQcy*qz1oH0SOAo*L0M/327565_270195683025819_119636488081740_830029_1535414877_o.jpg)
-
-
-
-
-
 What is LiftBook?
 
 LiftBook is an open source iOS application which allows users to keep track of their workouts along with corresponding weights and sets. Its creation came from the lack of options currently available to users in the App Store. 
