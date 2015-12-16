@@ -21,7 +21,8 @@ The goal of LiftBook is to create a simple-to-use app which allows users to inpu
 
 ##How To Contribute:
 
-Download (if you don't already have it) Xcode and clone the repository! Complete and submit CLA
+Download (if you don't already have it) Xcode and clone the repository! Complete and submit Contributor Agreement.
+
 
 ##Who Can Contribute:
 
